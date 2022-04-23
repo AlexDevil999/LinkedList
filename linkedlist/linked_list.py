@@ -1,4 +1,3 @@
-from re import M
 from node import Node
 
 class LinkedList:
